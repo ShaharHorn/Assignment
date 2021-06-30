@@ -1,0 +1,5 @@
+FileService\controller\FileMapperController.class
+FileService\FileMapperServiceApplication.class
+FileService\config\RowConfig.class
+FileService\dto\RecordDTO.class
+FileService\service\FileMapperService.class
